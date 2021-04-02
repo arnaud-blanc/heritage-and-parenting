@@ -6,4 +6,4 @@
     Les visibilités public/private/protected sont correctement définies.
     Sur index.php, il est possible d'instancier autant d’objets Truck que désirés, sans provoquer d'erreur.
     Sur index.php, les camions avancent, freinent et contrôlent leur chargement sans erreur.
-    Ton code est disponible sur GitHub.
+    Ton code est disponible sur GitHub !
